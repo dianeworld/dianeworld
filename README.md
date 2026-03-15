@@ -1,4 +1,4 @@
-# 🎨 Portfolio Personal - Estudiant CIFO La Violeta
+# 🎨 Portfolio Personal
 
 Aquest portfolio està dissenyat amb aproximació **mobile-first**, seguint les millors pràctiques del desenvolupament web modern.
 El disseny garanteix una experiència òptima en **mòbils, tauletes i escriptoris**.
